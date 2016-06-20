@@ -44,8 +44,7 @@ var city = "Pasadena";
 var state = states[4];
 var zipCode = "92109";
 var age = 53;
-var referralSource = "internet";
-var okToContact = false;
+var referralSource = "internet", okToContact = false;
 */
 
 // STEP 6
